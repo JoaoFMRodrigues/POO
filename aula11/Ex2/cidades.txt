@@ -1,0 +1,44 @@
+Origem                    Voos 
+Lisboa                   
+Madrid                   
+Paris, Orly              
+Geneva                   
+Brussels                 
+Madeira                  
+Frankfurt                
+London, Gatwick          
+Barcelona                
+Paris, Beauvais          
+Zurich                   
+Basel                    
+Luxembourg               
+London, Stansted         
+Milan, Malpensa          
+Paris, Ch. de Gaulle     
+Faro                     
+Clermont-Ferrand         
+Toulouse, Blagnac        
+Toronto, Pearson         
+Ponta Delgada            
+Milan/Bergamo            
+Marseille                
+Lille                    
+Hamburg                  
+Lyon, St. Exupery        
+Amsterdam                
+Luanda                   
+Memmingen                
+Frankfurt, Hahn          
+Istanbul, Ataturk        
+Eindhoven                
+Carcassonne              
+Palma Mallorca           
+Manchester               
+Brussels, Charleroi      
+Tenerife Sur             
+São Paulo, Guarulhos    
+Rome, Fiumicino          
+London, Luton            
+Valencia                 
+Paris, Vatry             
+Saint Etienne            
